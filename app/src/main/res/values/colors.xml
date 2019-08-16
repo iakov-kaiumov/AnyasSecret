@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00695C</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="colorPrimaryStudio">#666666</color>
+    <color name="colorPrimaryDarkStudio">#2b2727</color>
+    <color name="colorAccentStudio">#bdbdbd</color>
+
+
+    <color name="colorWaveNoon">#1565C0</color>
+    <color name="colorWaveNight">#041141</color>
+
+    <color name="night_start">#000A2F</color>
+    <color name="night_end">#4D0C66</color>
+
+    <color name="noon_start">#2980B9</color>
+    <color name="noon_end">#6DD5FA</color>
+
+    <color name="sunset_start">#0B486B</color>
+    <color name="sunset_end">#F56217</color>
+
+    <color name="sun_start">#FFB74D</color>
+    <color name="sun_end">#FFC107</color>
+
+    <color name="star_color_1">#ffffff</color>
+    <color name="star_color_2">#25ADFF</color>
+    <color name="star_color_3">#FFC100</color>
+    <color name="star_color_4">#FF3800</color>
+
+</resources>

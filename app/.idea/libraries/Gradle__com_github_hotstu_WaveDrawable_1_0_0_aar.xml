@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.hotstu:WaveDrawable:1.0.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/WaveDrawable-1.0.0.aar/a397881dc927a3e4933f0298806e7a2e/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/WaveDrawable-1.0.0.aar/a397881dc927a3e4933f0298806e7a2e/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/WaveDrawable-1.0.0.aar/a397881dc927a3e4933f0298806e7a2e/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.hotstu/WaveDrawable/1.0.0/e01e5669d74dbe107efea8d995568d1a0d7b2fd4/WaveDrawable-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,268 @@
+<resources>
+    <string name="app_name">Yasha\'s Studio</string>
+    <string name="compliment">Комплименты от Яшки</string>
+
+    <!-- TIPS -->
+    <string name="confirm_tip">OK!</string>
+    <string name="run_tip_title">Запуск!</string>
+    <string name="run_tip">Нажми, чтобы запустить приложение</string>
+    <string name="widget_tip_title">Открой панель инструментов!</string>
+    <string name="widget_tip">Выбери виджет \"Button\" и добавь 6 кнопок на экран
+        в произвольном порядке</string>
+    <string name="stop_tip_title">Остановка!</string>
+    <string name="stop_tip">Останови этот произвол!!!</string>
+    <string name="debug_tip_title">ДЕБАГ!</string>
+    <string name="debug_tip">Что-то пошло не так… Давай запустим в режиме дебага и найдем ошибку</string>
+    <!-- TIPS -->
+
+    <!-- Studio Activity -->
+    <string name="something_wrong">Кажется, что-то пошло не так…</string>
+    <!-- Studio Activity -->
+
+    <!-- Heart Activity -->
+    <string name="heart_intro_tip1">После того, как загорится вспышка прижми указательный пальц
+        к задней камере и вспышке. НИ В КОЕМ СЛУЧАЕ НЕ УБИРАЙ ПАЛЕЦ!</string>
+    <string name="heart_intro_tip2">Теперь мы проверим как изменится твое сердцебиение.
+        Игра начинается..</string>
+    <string name="heart_intro_end">Неплохо.. Но в любом случае это была просто шутка. Ха-ха!</string>
+    <string name="heart_finger_not_detected">ПАЛЕЦ НЕ ОБНАРУЖЕН</string>
+    <string name="score_label">Score</string>
+    <string name="continue_label">Далее</string>
+    <string name="heart_bmp">Ударов в минуту:</string>
+    <!-- Heart Activity -->
+
+    <!-- Debug Activity -->
+    <string name="go_deep">Go deeper</string>
+    <string name="go_deeper">I SAID GO DEEPER</string>
+    <string name="go_back">FUCK! Go back!!!</string>
+    <!-- Debug Activity -->
+
+    <!-- Black Activity -->
+    <string name="game_lost_text">Прости, но ты проиграла. Ха-ха. Сейчас ты увидишь как я захвачу мир!
+        Даже не пытайся меня остановить</string>
+    <string name="current_progress">Мир захвачен на </string>
+    <string name="do_it">Действуй!</string>
+    <!-- Black Activity -->
+
+    <!--Night Activity -->
+    <string name="sunrise">Sunrise</string>
+    <string name="sunset">Sunset</string>
+    <string name="game_over1">Привет, Аня. Ты победила! Ты молодец!
+    Я поздравляю тебя с днем рождения и дарю тебе этот замечательный рассвет ..</string>
+    <string name="game_over2">Теперь ты можешь заходить сюда, чтобы любоваться восходами и закатами
+    солнца. А еще каждый день тебя ждет маленький сюрприз! С днем рождения! КОНЕЦ! ..</string>
+    <!--Night Activity -->
+
+    <!-- Settings -->
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact based on your message
+        history
+    </string>
+
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_default_display_name">John Smith</string>
+
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+    <string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+    <!-- settings for Data & Sync -->
+    <string name="pref_header_data_sync">Data &amp; sync</string>
+
+    <string name="pref_title_sync_frequency">Sync frequency</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+    <string-array name="list_preference_entries">
+        <item>Entry 1</item>
+        <item>Entry 2</item>
+        <item>Entry 3</item>
+    </string-array>
+
+    <string-array name="list_preference_entry_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="multi_select_list_preference_default_value" />
+
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+
+    <!-- Settings for Notifications -->
+    <string name="pref_header_notifications">Notifications</string>
+
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+
+    <string name="pref_title_vibrate">Vibrate</string>
+
+    <!-- Settings for Assistant -->
+    <string name="pref_header_assistant">Assistant</string>
+    <string name="pref_assistant_enable">Assistant Enabled</string>
+    <string name="pref_assistant_description">Yasha helps you and make the process of development much easier</string>
+    <string name="pref_assistant_jokes_title">Jokes</string>
+    <string name="pref_assistant_jokes_description">Yasha will tell you funny jokes</string>
+
+
+    <string name="java_stack_trace"> Launching app… \n
+$ adb install-multiple -r -t \n
+        C:\Users\Public\Documents\AnyasSecret\app\build\intermediates\resources\instant-run\debug\resources-debug.apk \n
+Split APKs installed in 7 s 816 ms \n
+$ adb shell am start -n "edu.phystech.iag.kaiumov.anyassecret/edu.phystech.iag.kaiumov.anyassecret.MainActivity" -a android.intent.action.MAIN -c android.intent.category.LAUNCHER \n
+Client not ready yet..Waiting for process to come online \n
+Connected to process 4068 on device xiaomi-mi_9SE-7555caa \n
+---------- ERROR --------- \n
+-- Printing Stack Trace -- \n
+        java.lang.StackOverflowError \n
+at android.widget.TextView.onDraw(TextView.java:4329) \n
+at android.view.View.draw(View.java:6993) \n
+at android.view.ViewGroup.drawChild(ViewGroup.java:1732) \n
+at android.view.ViewGroup.dispatchDraw(ViewGroup.java:1459) \n
+at android.view.View.draw(View.java:6996) \n
+at android.view.ViewGroup.drawChild(ViewGroup.java:1732) \n
+at android.view.ViewGroup.dispatchDraw(ViewGroup.java:1459) \n
+at android.view.View.draw(View.java:6996) \n
+at android.view.ViewGroup.drawChild(ViewGroup.java:1732) \n
+at android.view.ViewGroup.dispatchDraw(ViewGroup.java:1459) \n
+at android.view.View.draw(View.java:6996) \n
+at android.view.ViewGroup.drawChild(ViewGroup.java:1732)  \n
+at android.view.ViewGroup.dispatchDraw(ViewGroup.java:1459) \n
+at android.view.View.draw(View.java:6996) \n
+at android.view.ViewGroup.drawChild(ViewGroup.java:1732) \n
+at android.view.ViewGroup.dispatchDraw(ViewGroup.java:1459) \n
+at android.view.ViewGroup.drawChild(ViewGroup.java:1730) \n
+at android.view.ViewGroup.dispatchDraw(ViewGroup.java:1459) \n
+at android.view.View.draw(View.java:7105) \n
+at android.widget.FrameLayout.draw(FrameLayout.java:357) \n
+at android.widget.ScrollView.draw(ScrollView.java:1417) \n
+at android.view.ViewGroup.drawChild(ViewGroup.java:1732) \n
+at android.view.ViewGroup.dispatchDraw(ViewGroup.java:1459) \n
+at android.view.View.draw(View.java:6996) \n
+at android.view.ViewGroup.drawChild(ViewGroup.java:1732) \n
+at android.view.ViewGroup.dispatchDraw(ViewGroup.java:1459) \n
+at android.view.View.draw(View.java:6996) \n
+at android.widget.FrameLayout.draw(FrameLayout.java:357) \n
+at android.view.ViewGroup.drawChild(ViewGroup.java:1732) \n
+at android.view.ViewGroup.dispatchDraw(ViewGroup.java:1459) \n
+at android.view.ViewGroup.drawChild(ViewGroup.java:1730) \n
+at android.view.ViewGroup.dispatchDraw(ViewGroup.java:1459) \n
+at android.view.View.draw(View.java:6996) \n
+at android.widget.FrameLayout.draw(FrameLayout.java:357) \n
+at android.view.ViewGroup.drawChild(ViewGroup.java:1732) \n
+at android.view.ViewGroup.dispatchDraw(ViewGroup.java:1459) \n
+at android.view.ViewGroup.drawChild(ViewGroup.java:1730) \n
+at android.view.ViewGroup.dispatchDraw(ViewGroup.java:1459) \n
+at android.view.ViewGroup.drawChild(ViewGroup.java:1730) \n
+at android.view.ViewGroup.dispatchDraw(ViewGroup.java:1459) \n
+at android.view.ViewGroup.drawChild(ViewGroup.java:1730) \n
+at android.view.ViewGroup.dispatchDraw(ViewGroup.java:1459) \n
+at android.view.View.draw(View.java:6996) \n
+at android.widget.FrameLayout.draw(FrameLayout.java:357) \n
+at android.view.ViewGroup.drawChild(ViewGroup.java:1732) \n
+at android.view.ViewGroup.dispatchDraw(ViewGroup.java:1459) \n
+at android.view.ViewGroup.drawChild(ViewGroup.java:1730) \n
+at android.view.ViewGroup.dispatchDraw(ViewGroup.java:1459) \n
+at android.view.ViewGroup.drawChild(ViewGroup.java:1730) \n
+at android.view.ViewGroup.dispatchDraw(ViewGroup.java:1459) \n
+at android.view.ViewGroup.drawChild(ViewGroup.java:1730) \n
+at android.view.ViewGroup.dispatchDraw(ViewGroup.java:1459) \n
+at android.view.View.draw(View.java:6996) \n
+at android.widget.FrameLayout.draw(FrameLayout.java:357) \n
+at android.view.ViewGroup.drawChild(ViewGroup.java:1732) \n
+at android.view.ViewGroup.dispatchDraw(ViewGroup.java:1459) \n
+at android.view.View.draw(View.java:6996) \n
+at android.widget.FrameLayout.draw(FrameLayout.java:357) \n
+at android.view.ViewGroup.drawChild(ViewGroup.java:1732) \n
+at android.view.ViewGroup.dispatchDraw(ViewGroup.java:1459) \n
+at android.view.View.draw(View.java:6996) \n
+at android.widget.FrameLayout.draw(FrameLayout.java:357) \n
+at com.android.internal.policy.impl.PhoneWindow$DecorView.draw(PhoneWindow.java:2054) \n
+at android.view.ViewRoot.draw(ViewRoot.java:1632) \n
+at android.view.ViewRoot.performTraversals(ViewRoot.java:1335) \n
+at android.view.ViewRoot.handleMessage(ViewRoot.java:1991) \n
+at android.os.Handler.dispatchMessage(Handler.java:99) \n
+at android.os.Looper.loop(Looper.java:150) \n
+at android.app.ActivityThread.main(ActivityThread.java:4358) \n
+at java.lang.reflect.Method.invokeNative(Native Method) \n
+at java.lang.reflect.Method.invoke(Method.java:507) \n
+at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:849) \n
+at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:607)</string>
+
+    <string name="assembler_stack_trace">
+        .CODE ;
+        .STARTUP ;
+        AddPackedDecimal proc           ;
+        push    ax                      ;
+        push    bx                      ;
+        push    cx                      ;
+        push    dx                      ;
+        push    di                      ;
+        push    si                      ;
+        mov     al,[si]                 ;
+        mov     ah,[bx]                 ;
+        mov     dx,ax                   ;
+        and     dx,00f0fh               ;
+        and     ax,0f0f0h               ;
+        cmp     dl,dh                   ;
+        stc                             ;
+        jnz     Done                    ;
+        std                             ;
+        clc                             ;
+        push    di                      ;
+AddEmUp:                                ;
+        adc     al,ah                   ;
+        daa                             ;
+        stosb                           ;
+        lahf                            ;
+        dec     si                      ;
+        dec     bx                      ;
+        sahf                            ;
+        mov     al,[si]                 ;
+        mov     ah,[bx]                 ;
+        loop    AddEmUp                 ;
+        pop     di                      ;
+        jc      Done                    ;
+        or      [di],dl                 ;
+Done:                                   ;
+        pop     si                      ;
+        pop     di                      ;
+        pop     dx                      ;
+        pop     cx                      ;
+        pop     bx                      ;
+        pop     ax                      ;
+        ret                             ;
+AddPackedDecimal endp                   ;
+        END</string>
+</resources>

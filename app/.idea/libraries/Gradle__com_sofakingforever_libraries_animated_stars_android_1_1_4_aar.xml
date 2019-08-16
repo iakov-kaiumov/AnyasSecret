@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.sofakingforever.libraries:animated-stars-android:1.1.4@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-animated-stars-android-1.1.4.aar/7af29cd0bf218c089096edd776470fe9/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-animated-stars-android-1.1.4.aar/7af29cd0bf218c089096edd776470fe9/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sofakingforever.libraries/animated-stars-android/1.1.4/1a98f07fc1451c908e1b175363a77a7d3709d9c/animated-stars-android-1.1.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

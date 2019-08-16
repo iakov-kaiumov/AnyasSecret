@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Common">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item android:id="@+id/widgetButton"
+                    android:icon="@drawable/ic_button"
+                    android:title="Button" />
+                <item
+                    android:icon="@drawable/ic_checkbox"
+                    android:title="CheckBox" />
+                <item
+                    android:icon="@drawable/ic_imageview"
+                    android:title="ImageView" />
+                <item
+                    android:icon="@drawable/ic_switch"
+                    android:title="Switch" />
+                <item
+                    android:icon="@drawable/ic_radiobutton"
+                    android:title="RadioButton" />
+            </group>
+        </menu>
+    </item>
+
+    <item android:title="Widgets">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:icon="@drawable/ic_camera"
+                    android:title="CameraView" />
+                <item
+                    android:icon="@drawable/ic_webview"
+                    android:title="WebView" />
+                <item
+                    android:icon="@drawable/ic_videoview"
+                    android:title="VideoView" />
+            </group>
+        </menu>
+    </item>
+
+    <item android:title="Layouts">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:title="LinearLayout" />
+                <item
+                    android:title="CoordinateLayout" />
+                <item
+                    android:title="ConstraintLayout" />
+                <item
+                    android:title="GridLayout" />
+                <item
+                    android:title="FrameLayout" />
+            </group>
+        </menu>
+    </item>
+
+</menu>

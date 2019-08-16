@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.kibotu:Heart-Rate-Ometer:-SNAPSHOT@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-Heart-Rate-Ometer--SNAPSHOT.aar/c0b5635f2250e032ed3183e354e751e6/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-Heart-Rate-Ometer--SNAPSHOT.aar/c0b5635f2250e032ed3183e354e751e6/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.kibotu/Heart-Rate-Ometer/-SNAPSHOT/ac4cd1d3ca0a77697b9024379e28fc0fefc67c13/Heart-Rate-Ometer--SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

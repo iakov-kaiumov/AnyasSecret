@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.iamporus:TypedTextView:1.1.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-TypedTextView-1.1.1.aar/bc06a77cc199f723860aed51eb0e73ad/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-TypedTextView-1.1.1.aar/bc06a77cc199f723860aed51eb0e73ad/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.iamporus/TypedTextView/1.1.1/5836be2740dc31e38dcb210a4b96a1c064f923d9/TypedTextView-1.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

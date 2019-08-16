@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="compliment">
+        <item>Девушка, у вас полуцелый спин!</item>
+        <item>Второе начало термодинамики не про тебя</item>
+        <item>По сравнению с бегемотом ты пушинка!</item>
+        <item>В мире нет ничего запретнее твоих подмышек</item>
+        <item>Я не могу выбраться из твоей потенциальной ямы!</item>
+        <item>Оглянись! Все вокруг в шоке от твоей красоты</item>
+        <item>Добрый день, ваше величество!</item>
+        <item>Ходит легенда, что Аню можно победить в Манчкин…</item>
+        <item>Никогда не недооценивай свою МОЩЬ!</item>
+        <item>Твои ножки лучше крылышек в KFC!</item>
+        <item>Как тебе удается быть такой опупенной?</item>
+        <item>Помнишь как ты тянула Яшу в кусты?)</item>
+        <item>На физтехе нет девушке красивее Лисаченко Анны Максимовны</item>
+        <item>Какой прекрасный день! Самое время улыбнуться!</item>
+        <item>Удивительно, но ты сегодня замечательно выглядишь!</item>
+        <item>Сегодня ты выглядишь на 3 среднестатистических отклонения правее мат. ожидания!</item>
+        <item>Твой парень случайно не охотник - добытчик? Нет? Тогда откуда у него такая дичь!</item>
+        <item>Твои родители случайно не Homo Erectus-ы? Нет? Тогда откуда у них такой Homo Sapience?</item>
+        <item>Твои родители случайно не садоводы? Нет? Тогда откуда у них такой баклажан?! </item>
+        <item>Твои родители случайно не пекари? Нет? Тогда откуда у них такая крошка!</item>
+        <item>Твои родители случайно не кондитеры? Нет? Тогда откуда у них такая конфетка?</item>
+        <item>Твои родители случайно не пираты? Нет? Тогда откуда у них такой сокровище?!</item>
+        <item>East or west, Anya is the best</item>
+        <item>You Might Be The Primary Reason For Global Warming.</item>
+        <item>Aside From Food, You’re The Best</item>
+        <item>You’re So Sexy That Children Under 18 Aren’t Even Allowed To Look At You.</item>
+        <item>You’re Hilarious!</item>
+        <item>You’re Not Like Everyone Else.</item>
+        <item>Nobody Makes Me Happier Than You.</item>
+        <item>I Can See So Much Warmth In Your Eyes.</item>
+        <item>Your Eyes Are So Expressive And Beautiful.</item>
+        <item>How Do You Look So Beautiful All The Time?</item>
+        <item>There’s Something About You…</item>
+        <item>You’re Sexy!</item>
+        <item>I Think You Are Perfect Just The Way You Are.</item>
+        <item>I Like Your Style!</item>
+        <item>You Look Prettier Than A Picture!</item>
+        <item>You Look Great Today!</item>
+        <item>You gave light to my soul \n
+            You helped me to be whole \n
+            I have felt love for you before \n
+            And it will be more and more, \n
+            You are mine, my dear \n
+            You are the angel from above \n
+            Who taught me how to love.</item>
+        <item>Your cuteness knows no bounds, \n
+            Your beauty has no limit, \n
+            You are the only woman in the world, \n
+            To which I will commit. </item>
+        <item>I look at you and gasp in awe, \n
+            Wondering how you’re mine, \n
+            You take my breath away my dear, \n
+            For you, I’ll walk the line.</item>
+        <item>You\'re my sun on a cloudy day \n
+            You\'re my umbrella on a rainy day \n
+            You\'re my everything what can I say \n
+            You\'re in my mind each and everyday</item>
+    </string-array>
+
+    <!-- Studio Intro -->
+    <string-array name="button_intro_title">
+        <item>Greetings, Anna</item>
+        <item>Meet Yasha!</item>
+        <item>Permissions</item>
+        <item>Introduction</item>
+        <item>Follow the instructions!</item>
+        <item>Buttons!</item>
+    </string-array>
+    <string-array name="button_intro_description">
+        <item>Приветствую тебя в новой высокоуровневой, технологичной, адаптированной, кастомизированной
+            среде Yasha\'s Studio</item>
+        <item>Yasha\'s Studio уникальна тем, что это первая среда разработки с интегрированным
+            искуственным интеллектом. Умный помощник Yasha поможет и подскажет в непонятной ситуации.
+            Yasha позволяет в десятки раз ускорить процесс разработки.</item>
+        <item>Для корректной работы, Вам необходимо предоставить Yasha разрешения на доступ к памяти и камере</item>
+        <item>Перед началом работы необходимо пройти краткий курс обучения. Также настоятельно
+        рекомендую включить звук</item>
+        <item>Твое первое задание:
+            \n - Познакомится с интерфейсом программы
+            \n - Создать и запустить первый проект</item>
+        <item>Что может быть легче каких-то там кнопочек? Твоя задача нажатием на экран редактирования
+            добавить ровно 6 кнопок так, как показано на рисунке</item>
+    </string-array>
+    <integer-array name="button_intro_bg_colors">
+        <item>@color/colorPrimary</item>
+        <item>@color/colorPrimaryDark</item>
+        <item>@color/colorPrimary</item>
+        <item>@color/colorWaveNoon</item>
+        <item>@color/noon_start</item>
+        <item>@color/colorPrimaryDark</item>
+    </integer-array>
+    <integer-array name="button_intro_images">
+        <item>@drawable/studio_logo</item>
+        <item>@drawable/yasha_handsome</item>
+        <item>@drawable/ic_sd_storage</item>
+        <item>@drawable/ic_volume_up</item>
+        <item>@drawable/studio_with_panel</item>
+        <item>@drawable/studio_with_buttons</item>
+    </integer-array>
+    <integer name="persmission_slide">3</integer>
+    <!-- Studio Intro -->
+
+    <!-- Loading phrases -->
+    <string-array name="loading_phrases">
+        <item>Check buttons…</item>
+        <item>Хвалим Аню…</item>
+        <item>Launching the CORE…</item>
+        <item>sleep(500)…</item>
+        <item>Ыыы! Компилируйся!</item>
+        <item>Just a second!</item>
+    </string-array>
+    <!-- Loading phrases -->
+
+    <integer-array name="star_colors_small">
+        <item>@color/star_color_1</item>
+        <item>@color/star_color_1</item>
+        <item>@color/star_color_1</item>
+        <item>@color/star_color_1</item>
+        <item>@color/star_color_2</item>
+        <item>@color/star_color_3</item>
+    </integer-array>
+
+
+    <integer-array name="star_colors_big">
+        <item>@color/star_color_2</item>
+        <item>@color/star_color_4</item>
+        <item>@color/star_color_3</item>
+    </integer-array>
+
+    <integer-array name="meteorites_colors">
+        <item>@color/star_color_1</item>
+        <item>@color/star_color_2</item>
+        <item>@color/star_color_1</item>
+        <item>@color/star_color_1</item>
+        <item>@color/star_color_1</item>
+        <item>@color/star_color_3</item>
+        <item>@color/star_color_1</item>
+        <item>@color/star_color_1</item>
+        <item>@color/star_color_4</item>
+    </integer-array>
+</resources>
